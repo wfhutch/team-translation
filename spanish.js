@@ -24,3 +24,4 @@ holidayCard.setTranslateToSpanish("merry");
 
 console.log(holidayCard);
 console.log(holidayCard.getTranslateToSpanish());
+...
